@@ -1,0 +1,12 @@
+name: DarkBox
+version: 0.5.8.7
+authors: [Celeo, noahgolm, '1770749']
+descrption: Provides an all-in-one chest for everyone!
+main: net.thedarktide.celeo.Core
+commands:
+  darkbox:
+    usage: /<command> [parameter(s)]
+    description: Plugin commands
+  vchest:
+    usage: /<command> [parameter(s)]
+    description: Plugin commands

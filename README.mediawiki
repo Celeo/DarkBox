@@ -1,0 +1,17 @@
+__NOTOC__
+
+= DarkBox =
+
+Provides an all-in-one chest for everyone!
+
+== Contributing ==
+
+If you have something that you wish to add to this plugin, simply do the following:
+    1. Fork from this repository to your own.
+    2. Make your edits. Be sure to test locally to ensure functioning code!
+    3. Add your handle to the authors section in the plugin file.
+    4. Submit a pull request to this repository.
+
+== License ==
+
+This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 United States License: http://creativecommons.org/licenses/by-sa/3.0/us/.
